@@ -12,11 +12,11 @@ Example
 "ABBA" -> 2 # 'A' and 'B' each occur twice
 */
 
-//Data Structures:							insert		find		size
+//Data Structures:				insert		find		size
 /*
 	set - sorted order, no duplicates.		log n 		log n 		O(1)
-unordered_set - similar (search diff)		O(1)		O(1)		O(1)
-map - key and value				(make_pair)-log n 		log n 		O(1)	"->"
+unordered_set - similar (search diff)		 O(1)		O(1)		O(1)
+map - key and value			(make_pair)-log n 		log n 		O(1)	"->"
 
 
 */
